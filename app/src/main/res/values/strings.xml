@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="quantity_prompt">Quantity</string>
+    <string name="quantity_amount">0</string>
+    <string name="order">Order</string>
+    <string name="price">Order Summary</string>
+    <string name="toppings">Toppings</string>
+    <string name="whipped_cream">Whipped Cream</string>
+</resources>
